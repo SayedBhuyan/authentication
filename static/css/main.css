@@ -1,0 +1,31 @@
+
+.centered {
+    width: 100% !important;
+    height: 100vh !important;
+}
+
+.form-control {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: none !important;
+}
+
+.form-control:focus {
+  outline: black !important;
+  box-shadow: black !important;
+  border-color: black !important;
+}
+.errorlist {
+	color: red;
+	list-style: none;
+	padding: 0;
+}
+
+.errorlist li {
+	font-weight: bold;
+}
+
+.navbar {
+	border-bottom: 1px dashed;
+	background: navajowhite;
+}
